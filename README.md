@@ -1,2 +1,1 @@
-# The-Taco-Shop-project
-This is the repository where the taco shop project have.
+This is my third HTML project that have some amazing stuff.
